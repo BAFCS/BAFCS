@@ -17,9 +17,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
-  ``<a href="CV_es.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Curriculum-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV">
-  </a>``
 </div>
 
 - 📍 Viviendo en Santiago de Chile.

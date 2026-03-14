@@ -19,7 +19,7 @@
 
 </div>
 
-- 📍 Viviendo en Santiago de Chile.
+- 📍 Santiago de Chile
 - 🔭 Interesado en Machine Learning, Business Analytics y el desarrollo de software basado en IA.
 - 👨‍🎓 Ingeniero Civil en Computación por la Universidad Andrés Bello.
 - 📚 Estudiante de Magíster en Data Science en la Universidad de Chile.

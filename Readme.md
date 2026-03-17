@@ -1,4 +1,4 @@
-# Hola, 👋 soy Bryan
+# Hola, 👋 soy Bryan Cabezas
 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">

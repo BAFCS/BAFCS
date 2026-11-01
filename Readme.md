@@ -24,7 +24,7 @@
 - 👨‍🎓 Ingeniero Civil en Computación por la Universidad Andrés Bello.
 - 📚 Estudiante de Magíster en Data Science en la Universidad de Chile.
 - 🧑‍💻 Experiencia previa como Machine Learning Engineer en LATAM Airlines y Desarrollador de Software.
-- 🚴 Entusiasta del deporte, practico ciclismo a diario.
+- 🚴 Entusiasta del deporte, práctico ciclismo a diario.
 
 
 # Tech Stack 🛠️
